@@ -1,0 +1,2 @@
+# latihanlagi.txt
+buat latihan 
